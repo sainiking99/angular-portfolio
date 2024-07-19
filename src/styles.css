@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Nova Square', sans-serif;
+}
+li a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+}
+body, html{
+    overflow-x: hidden;
+}
